@@ -13,7 +13,7 @@ const LinkCard = ({ onClose }) => {
             Исходники приложения доступны в публичном репозитории на Github:
           </p>
           <p className={styles.content__Link}>
-            https://github.com/Zemay-13/yandex-practicum-test-task.git
+            https://github.com/Zemay-13/yandex-task.git
           </p>
         </div>
         <img src={decorBg} alt="" className={styles.fc__decorBg} />
